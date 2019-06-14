@@ -1,9 +1,9 @@
 # Simple text editor
 
-## Initial setup
-Run `npm install` in order to setup application.
-Run `npm install slate slate-react` in order to setup enviroment.
-Run `npm install react react-dom immutable` needed dependencies for enviroment.
+## Initial setup (Important)
++ Run `npm install` in order to setup application.
++ Run `npm install slate slate-react` in order to setup enviroment.
++ Run `npm install react react-dom immutable` needed dependencies for enviroment.
 
 ## Development server
 Run `npm start` for a dev server.
